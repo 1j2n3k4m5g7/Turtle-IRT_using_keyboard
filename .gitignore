@@ -13,3 +13,6 @@ dist/
 .vscode/
 venv/
 env/
+# forgot about it but added now so it won't track your work:
+psFiles/
+imagesPNG/
