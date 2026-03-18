@@ -16,3 +16,5 @@ env/
 # forgot about it but added now so it won't track your work:
 psFiles/
 imagesPNG/
+# files to track
+!requirements.txt
