@@ -24,6 +24,8 @@
 
 * Every lib from `requirements.txt` just open powershell/CMD in your main project folder and type `pip install -r requirements.txt`
 
+### If running code always check working directory if it's not `path/to/irtTurtle.py` change it to it because saving may not work in other case
+
 ### Basic movement:
 
 * **'W'** → forward
