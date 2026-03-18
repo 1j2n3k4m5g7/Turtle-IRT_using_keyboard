@@ -18,3 +18,4 @@ psFiles/
 imagesPNG/
 # files to track
 !requirements.txt
+!structure.txt
