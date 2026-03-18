@@ -1,0 +1,1 @@
+here you image will generate as .ps (postscript) file 
