@@ -1,15 +1,10 @@
-Folder PATH listing for volume KINGSTON
-Volume serial number is 655B-53C4
-D:.
+Turtle-IRT_using_keyboard
 |   irtTurtle.py
 |   tests.py
 |   README.md
 |   requirements.txt
 |   structure.txt
-|   
-+---.vscode
-|       settings.json
-|       
+|     
 +---psFiles
 +---imagesPNG
 +---variablesGlobal
