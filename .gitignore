@@ -6,7 +6,6 @@ Desktop.ini
 *.pyd
 *.spec
 variablesGlobal/
-Ghostscript/
 __pycache__/
 build/
 dist/
