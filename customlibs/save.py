@@ -1,8 +1,13 @@
-# Turtle that moves in real time (using your keyboard)
+# ------------------------------------------------------------------------------
+# Real-Time Interactive Turtle
 # © 2026 Jan Migo
-# Licensed under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-# Additional permission: Monetized streaming content allowed (YouTube, Twitch, TikTok, Instagram, etc.)
-# Paid apps/games/software require separate permission
+#
+# Licensed under PolyForm Noncommercial 1.0.0
+# FULL LICENSE: See LICENSE file in project root.
+#
+# ADDITIONAL PERMISSION: Use in monetized online content (YouTube, Twitch, etc.) 
+# is explicitly allowed. Commercial products require separate permission.
+# ------------------------------------------------------------------------------
 
 from turtle import *
 
