@@ -4,15 +4,10 @@
 # Additional permission: Monetized streaming content allowed (YouTube, Twitch, TikTok, Instagram, etc.)
 # Paid apps/games/software require separate permission
 
-from PIL import Image, EpsImagePlugin
+from PIL import Image
 from os import remove
 from tkinter import messagebox as msg
-from pathlib import Path
-
-# setup
-
-GhostscriptPath = "Ghostscript/bin/gswin64c.exe"
-EpsImagePlugin.gs_windows_binary = GhostscriptPath
+from pathlib import Path
 
 # main
 
