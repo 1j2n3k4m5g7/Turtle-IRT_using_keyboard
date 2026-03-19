@@ -90,6 +90,14 @@
 
 ---
 
+### Common problems:
+* If save not working check for Ghostscript (need to be in path),
+if still not working please write to me maybe I could workout something
+
+### If you have other problems that you can't workout please write to me I will check ASAP (please include that we maybe in different time zone and that I have school etc.)
+
+---
+
 ## License
 
 This project is licensed under **CC BY-NC-SA 4.0**.  
@@ -100,15 +108,4 @@ Official license page: [https://creativecommons.org/licenses/by-nc-sa/4.0/](http
 
 ❌ Not allowed in paid apps, games, software, or advertisements without permission  
 
-For commercial use, contact: 1j2n3k4m5g7dev@gmail.com
-
----
-
-## Third-Party Licenses
-
-The folder `Ghostscript/` contains Ghostscript binaries and libraries.  
-Ghostscript is licensed under the **GNU Affero General Public License v3 (AGPL-3.0)**.  
-Official AGPL license text: https://www.gnu.org/licenses/agpl-3.0.en.html
-
-
-All other code in this repository is licensed under **CC BY-NC-SA 4.0**, with additional permission for monetized streaming content (YouTube, Twitch, TikTok, Instagram, and similar services).
+For commercial use, contact: 1j2n3k4m5g7dev@gmail.com
