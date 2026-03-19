@@ -23,7 +23,7 @@
 ### What you need to install:
 
 * Every lib from `requirements.txt` just open powershell/CMD in your main project folder and type `pip install -r requirements.txt`
-* You will need to install Ghostscript
+* You will need to install Ghostscript and add it to ***PATH***
 
 ### If running code always check working directory if it's not `path/to/irtTurtle.py` change it to it because saving may not work in other case
 
@@ -113,4 +113,4 @@ This project is licensed under the **PolyForm Noncommercial License 1.0.0** with
 * **Redistribution:** You must provide attribution and a link back to this project.
 
 ### 📧 Commercial Inquiries
-If you want to use this project in a commercial product, please contact: **1j2n3k4m5g7dev@gmail.com**
+If you want to use this project in a commercial product, please contact: **1j2n3k4m5g7dev@gmail.com**
