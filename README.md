@@ -98,14 +98,19 @@ if still not working please write to me maybe I could workout something
 
 ---
 
-## License
+## License & Usage
 
-This project is licensed under **CC BY-NC-SA 4.0**.  
-Official license page: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Copyright © 2026 **Jan Migo**
 
-✔ Free for personal and non-commercial use  
-✔ Allowed in monetized online content (YouTube, Twitch, TikTok, Instagram, and similar streaming services)  
+This project is licensed under the **PolyForm Noncommercial License 1.0.0** with specific additional permissions for content creators.
 
-❌ Not allowed in paid apps, games, software, or advertisements without permission  
+### ✅ What is allowed?
+* **Personal & Educational Use:** Free to use, study, and modify.
+* **Content Creation:** You **can** use this tool for monetized videos or streams on platforms like YouTube, Twitch, TikTok, and Instagram.
 
-For commercial use, contact: 1j2n3k4m5g7dev@gmail.com
+### ❌ What is restricted?
+* **Commercial Products:** You may **not** use this code in paid apps, games, or advertisements without a separate license.
+* **Redistribution:** You must provide attribution and a link back to this project.
+
+### 📧 Commercial Inquiries
+If you want to use this project in a commercial product, please contact: **1j2n3k4m5g7dev@gmail.com**
