@@ -23,7 +23,7 @@
 ### What you need to install:
 
 * Every lib from `requirements.txt` just open powershell/CMD in your main project folder and type `pip install -r requirements.txt`
-* You will need to pull code from LFS using `git lfs pull` in Git Bash with LFS initialized (if not run `git install lfs`). Working directory should be a project folder
+* You will need to install Ghostscript
 
 ### If running code always check working directory if it's not `path/to/irtTurtle.py` change it to it because saving may not work in other case
 
