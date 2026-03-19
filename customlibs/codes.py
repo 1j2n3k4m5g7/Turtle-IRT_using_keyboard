@@ -36,10 +36,10 @@ def init(user_input):
     elif user_input=="Help!":
         helpPage=askyesno("Help","Basics:\nW = forward\nS = backward\nA = 15° left\nD = 15° right\n← = thinner line\n→ = thicker line\n↑ = pen up\n↓ = pen down\nPgDn = slower\nPgUp = faster\nlong-press f7 = ignore/don't ignore keys\n \nx = close \n \n \nTO GET MORE INFO VISIT HELP PAGE OR OPEN README FILE (press yes to visit or no/enter to close window)\n\nAfter browser opens please remember about f7\nOpens in default browser (so on Windows it's normally Edge)\nYou can find help page link by typing help.lnk in codes input box\n\nRemember to long-press f7 before and after typing text or so",icon='info',default='no')
         if helpPage:
-            webbrowser.open(url="google.com", new=1)
+            webbrowser.open(url="https://github.com/1j2n3k4m5g7/Turtle-IRT_using_keyboard", new=1)
     elif user_input=="help.lnk":
-        linkCopyPerm=askyesno('Help Page', 'Page address(link): google.com\n\nCopy to clipboard?')
+        linkCopyPerm=askyesno('Help Page', 'Page address(link): https://github.com/1j2n3k4m5g7/Turtle-IRT_using_keyboard\n\nCopy to clipboard?')
         if linkCopyPerm:
-            copy("google.com")
+            copy("https://github.com/1j2n3k4m5g7/Turtle-IRT_using_keyboard")
     else:
         showerror("Code recognition", "Inputed code was not recognized")
