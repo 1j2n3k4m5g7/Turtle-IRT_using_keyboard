@@ -10,11 +10,3 @@ Restrictions: Use in paid apps, games, advertisements, or other commercial produ
 Attribution: You must give appropriate credit, provide a link to the original project, and indicate if changes were made.
 
 Commercial licensing: If you want to use this project commercially, contact: 1j2n3k4m5g7dev@gmail.com
-
----
-
-## Third-Party Licenses
-
-The folder `Ghostscript/` contains Ghostscript binaries and libraries.  
-Ghostscript is licensed under the GNU Affero General Public License v3 (AGPL-3.0).  
-Official AGPL license text: https://www.gnu.org/licenses/agpl-3.0.en.html
