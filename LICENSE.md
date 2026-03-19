@@ -57,3 +57,10 @@ system for certain features. Ghostscript is NOT bundled with this software.
 THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
 IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR 
 OTHER LIABILITY.
+
+--------------------------------------------------------------------------------
+7. GOVERNING LAW AND JURISDICTION
+--------------------------------------------------------------------------------
+This License shall be governed by the laws of Poland. The parties agree 
+that the courts of the Lesser Poland Voivodeship (Województwo Małopolskie), 
+Poland, shall have exclusive jurisdiction over any disputes.
