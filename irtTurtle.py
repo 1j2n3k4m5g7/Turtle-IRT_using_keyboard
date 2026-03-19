@@ -3,7 +3,6 @@
 # Licensed under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 # Additional permission: Monetized streaming content allowed (YouTube, Twitch, TikTok, Instagram, etc.)
 # Paid apps/games/software require separate permission
-# Third-party code: Ghostscript (AGPL-3.0) if used
 
 from turtle import *
 from keyboard import *
